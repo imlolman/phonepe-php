@@ -12,6 +12,8 @@
         "source": "https://github.com/PhonePe/phonepe-php.git"
     },
     "homepage": "https://developer.phonepe.com",
+    "require": {
+    },
     "require-dev": {
         "mindplay/annotations": "^1.3",
         "phpunit/phpunit": "5.5.*",
